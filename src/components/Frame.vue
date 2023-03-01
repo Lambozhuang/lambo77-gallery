@@ -1,6 +1,6 @@
 <template>
   <div class="frame">
-    <img class="frame-photo" :src="`${image.thumbnailURL}`" />
+    <img class="frame-photo" v-lazy=image.thumbnailURL />
   </div>
 </template>
 
