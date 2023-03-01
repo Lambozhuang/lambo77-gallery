@@ -77,7 +77,9 @@
           </div>
         </footer> -->
         <footer>
-          <a href="https://beian.miit.gov.cn/">浙ICP备2022017344号-1</a>
+          &copy;&nbsp;{{ new Date().getFullYear() }} Lambo77
+          &nbsp;|&nbsp;
+          <a href="https://beian.miit.gov.cn/" target="_blank">浙ICP备2022017344号-1</a>
         </footer>
       </div>
     </div>
