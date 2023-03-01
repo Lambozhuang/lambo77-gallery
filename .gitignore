@@ -29,3 +29,5 @@ yarn-error.log*
 
 /local-assets
 /public/photos
+
+/public/index.html
