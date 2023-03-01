@@ -25,10 +25,11 @@ export default class Frame extends Vue {
   justify-content: center;
   overflow: hidden;
   background: white;
-  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 .frame:hover {
   cursor: pointer;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
 }
 .frame-photo {
   max-width: 100%;
